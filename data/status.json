@@ -1,9 +1,12 @@
 {
-  "checked_at": "2026-10-18T01:40:03.029252+08:00",
+  "checked_at": "2026-10-18T01:49:09.299030+08:00",
   "available": [
+    "margin",
     "index"
   ],
-  "errors": {
-    "margin": "No verified data"
-  }
+  "dates": {
+    "margin": "20261016",
+    "index": "20261018"
+  },
+  "errors": {}
 }
